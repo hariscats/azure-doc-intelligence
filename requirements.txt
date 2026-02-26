@@ -6,5 +6,6 @@ idna==3.11
 isodate==0.7.2
 python-dotenv==1.2.1
 requests==2.32.5
+# --- Phi-4 via Microsoft Foundry (uses requests) ---
 typing_extensions==4.15.0
 urllib3==2.6.3
